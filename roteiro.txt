@@ -1,0 +1,40 @@
+1 - capturar os dados
+
+2 - analise do problema
+	Supervisionado/Não Supervisionado
+
+3 - Analise dos dados
+		Exploração dos dados:
+			Gráficos:
+				* Boxplots;
+				* Histograma;
+				* Graficos de pizza;
+				* Scatter plot;
+				* Heatmaps
+				* Faces de Chernoff
+				
+			Correlação de Atributos:
+				* Correlação de Pearson
+				
+		
+		Preparação dos dados:
+			Limpeza dos dados:
+				* Irrelevancia
+				* Inconsistencia
+				* Incompletude
+				* Discrepância
+			Redução dos dados:
+				* Redundancia
+			Balanceamento dos dados:
+				* Insuficiência
+				* Desbalanceamento
+			Transformação dos dados:
+				* Despadronização
+			
+		
+		
+			
+
+4 - construção do modelo
+
+5 - avaliação do modelo
